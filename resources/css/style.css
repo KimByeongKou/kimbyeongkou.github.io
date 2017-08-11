@@ -293,13 +293,3 @@ p{
 .team-leader ul li a.fa-google-plus:hover{
 	color:#dd4b39;
 }
-
-#container2 {
-  overflow: hidden;
-  -webkit-filter: blur(200px);
-  -moz-filter: blur(15px);
-  -o-filter: blur(15px);
-  -ms-filter: blur(15px);
-  filter: blur(15px);
-}
-
