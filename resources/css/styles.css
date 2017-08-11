@@ -545,7 +545,7 @@ img::-moz-selection {
 #video_container {
 
   overflow: hidden;
-  -webkit-filter: blur(100px);
+  -webkit-filter: blur(200px);
   -moz-filter: blur(3px);
   -o-filter: blur(3px);
   -ms-filter: blur(3px);
