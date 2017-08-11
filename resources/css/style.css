@@ -295,17 +295,11 @@ p{
 }
 
 #container2 {
-  width: 640px;
-  height: 360px;
   overflow: hidden;
-  -webkit-filter: blur(15px);
+  -webkit-filter: blur(200px);
   -moz-filter: blur(15px);
   -o-filter: blur(15px);
   -ms-filter: blur(15px);
   filter: blur(15px);
 }
 
-#videobcg2 {
-  width: 100%;
-  height: auto;
-}
